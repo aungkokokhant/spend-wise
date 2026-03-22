@@ -140,7 +140,7 @@ flutter run
 ## 📦 Package Name
 
 ```
-com.aungkoko.spendwise
+com.aungkokokhant.spendwise
 ```
 
 ---
