@@ -119,7 +119,7 @@ SpendWise follows a **Clean Architecture + Feature-first approach**:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/aungkokokhant/spendwise.git
+git clone https://github.com/aungkokokhant/spend-wise.git
 cd spendwise
 ```
 
